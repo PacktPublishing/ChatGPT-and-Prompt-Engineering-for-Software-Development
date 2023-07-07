@@ -8,3 +8,5 @@ ChatGPT is an advanced language model that generates human-like text. Prompt eng
 The course begins with an introduction to ChatGPT, its capabilities, and applications in software development. You will learn to use ChatGPT for certification preps as a study aid and resource to understand key concepts. The course covers how ChatGPT can be utilized for tech interview preparation, practicing coding challenges, answering technical questions, and enhancing interview performance. We will explore how ChatGPT can be used in Docker, understanding Docker concepts.
 
 Moving on, we will delve into designing software systems with ChatGPT and brainstorm and evaluate design options, patterns, and trade-offs. You will learn to program with ChatGPT, seek explanations, and code examples in various programming languages/frameworks.
+
+Upon completion, we will gain a comprehensive understanding of ChatGPT/prompt engineering techniques that will enable us to effectively utilize ChatGPT to enhance software development productivity and acquire skills to design systems, write programs, and create documents with the assistance of ChatGPT.
